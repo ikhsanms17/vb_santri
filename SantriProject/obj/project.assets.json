@@ -1801,11 +1801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\University\\Project\\SantriProject\\SantriProject\\SantriProject.vbproj",
+      "projectUniqueName": "E:\\Comission\\vb_santri\\SantriProject\\SantriProject.vbproj",
       "projectName": "SantriProject",
-      "projectPath": "E:\\University\\Project\\SantriProject\\SantriProject\\SantriProject.vbproj",
+      "projectPath": "E:\\Comission\\vb_santri\\SantriProject\\SantriProject.vbproj",
       "packagesPath": "C:\\Users\\Pongo\\.nuget\\packages\\",
-      "outputPath": "E:\\University\\Project\\SantriProject\\SantriProject\\obj\\",
+      "outputPath": "E:\\Comission\\vb_santri\\SantriProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

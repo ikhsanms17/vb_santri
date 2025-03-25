@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JtoUfl8J93A=",
+  "dgSpecHash": "tbl/Q91xhV0=",
   "success": true,
-  "projectFilePath": "E:\\University\\Project\\SantriProject\\SantriProject\\SantriProject.vbproj",
+  "projectFilePath": "E:\\Comission\\vb_santri\\SantriProject\\SantriProject.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pongo\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Pongo\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
